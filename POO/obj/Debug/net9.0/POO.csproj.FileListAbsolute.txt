@@ -12,3 +12,4 @@ D:\sistemaBancario\POO\POO\obj\Debug\net9.0\refint\POO.dll
 D:\sistemaBancario\POO\POO\obj\Debug\net9.0\POO.pdb
 D:\sistemaBancario\POO\POO\obj\Debug\net9.0\POO.genruntimeconfig.cache
 D:\sistemaBancario\POO\POO\obj\Debug\net9.0\ref\POO.dll
+D:\sistemaBancario\POO\POO\obj\Debug\net9.0\POO.sourcelink.json

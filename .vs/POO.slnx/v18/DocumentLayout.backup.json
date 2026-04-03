@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\sistemaBancario\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\services\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\services\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\poo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|d:\\sistemabancario\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DomainException.cs",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\Entities\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "POO\\Entities\\Exceptions\\DomainException.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "POO.csproj",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\POO.csproj",
               "RelativeDocumentMoniker": "POO\\POO.csproj",
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Banco.cs",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\Entities\\Services\\Banco.cs",
               "RelativeDocumentMoniker": "POO\\Entities\\Services\\Banco.cs",
               "ToolTip": "D:\\sistemaBancario\\POO\\POO\\Entities\\Services\\Banco.cs",
               "RelativeToolTip": "POO\\Entities\\Services\\Banco.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T13:10:11.905Z",
               "EditorCaption": ""
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ContaCorrente.cs",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\Entities\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "POO\\Entities\\ContaCorrente.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Conta.cs",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\Entities\\Conta.cs",
               "RelativeDocumentMoniker": "POO\\Entities\\Conta.cs",
@@ -124,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\sistemaBancario\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "D:\\sistemaBancario\\POO\\POO\\Program.cs*",
-              "RelativeToolTip": "POO\\Program.cs*",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAIwCgAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\sistemaBancario\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T14:09:09.385Z",
               "EditorCaption": ""

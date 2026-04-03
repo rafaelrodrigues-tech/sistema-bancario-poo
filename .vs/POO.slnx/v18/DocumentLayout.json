@@ -54,8 +54,7 @@
               "RelativeToolTip": "POO\\Entities\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:19:14.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:19:14.526Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "POO\\POO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T11:36:03.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:36:03.57Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "POO\\Entities\\Services\\Banco.cs",
               "ToolTip": "D:\\sistemaBancario\\POO\\POO\\Entities\\Services\\Banco.cs",
               "RelativeToolTip": "POO\\Entities\\Services\\Banco.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T13:10:11.905Z",
               "EditorCaption": ""
@@ -93,8 +91,7 @@
               "RelativeToolTip": "POO\\Entities\\ContaPoupanca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:02:20.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T13:02:20.721Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "POO\\Entities\\ContaCorrente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:00:52.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T13:00:52.19Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "POO\\Entities\\Conta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:10:32.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T14:10:32.519Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "POO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:09:09.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T14:09:09.385Z"
             }
           ]
         }
