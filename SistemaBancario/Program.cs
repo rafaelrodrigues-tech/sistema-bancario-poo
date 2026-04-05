@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Globalization;
-using POO.Entities;
-using POO.Entities.Exceptions;
-using POO.Entities.Services;
+using SistemaBancario.Entities;
+using SistemaBancario.Entities.Exceptions;
+using SistemaBancario.Entities.Services;
 namespace MyApp
 {
-    class POO
+    class SistemaBancario
     {
         static void Main(string[] args)
         {

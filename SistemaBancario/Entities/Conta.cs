@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
-using POO.Entities.Services;
-using POO.Entities.Exceptions;
+using SistemaBancario.Entities.Services;
+using SistemaBancario.Entities.Exceptions;
 
-namespace POO.Entities
+namespace SistemaBancario.Entities
 {
     class Conta : Banco
     {

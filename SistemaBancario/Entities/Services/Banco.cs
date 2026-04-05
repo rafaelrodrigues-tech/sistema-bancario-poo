@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using POO.Entities.Exceptions;
+using SistemaBancario.Entities.Exceptions;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace POO.Entities.Services
+namespace SistemaBancario.Entities.Services
 {
     class Banco
     {

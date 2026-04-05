@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace POO.Entities.Exceptions
+namespace SistemaBancario.Entities.Exceptions
 {
     class DomainException:ApplicationException
     {

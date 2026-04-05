@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace POO.Entities
+namespace SistemaBancario.Entities
 {
     class ContaPoupanca : Conta
     {
